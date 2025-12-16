@@ -1,8 +1,8 @@
-Git Tutorials
+\#Git Tutorials
 
 
 
-This repository is created to practice Git commands.
+\#This repository is created to practice Git commands.
 
-
+\#please subscribe
 
